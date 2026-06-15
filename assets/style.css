@@ -1,0 +1,14 @@
+*{
+    margin: 10px;
+    padding: 20px;
+
+}
+body{
+    background-color: beige;
+    colour: white;
+}
+.rightDiv img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
